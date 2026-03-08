@@ -1,0 +1,9 @@
+# APK extraction artifacts
+apk_extract/
+jadx_output/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
